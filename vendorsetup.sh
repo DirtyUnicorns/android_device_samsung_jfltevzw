@@ -1,2 +1,2 @@
-add_lunch_combo omni_jfltevzw-userdebug
+add_lunch_combo du_jfltevzw-userdebug
 add_lunch_combo full_jfltevzw-userdebug
