@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/du_jfltevzw.mk \
+	$(LOCAL_DIR)/du.mk \
 	$(LOCAL_DIR)/omni_jfltevzw.mk 
