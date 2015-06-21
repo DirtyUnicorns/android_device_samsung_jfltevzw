@@ -26,9 +26,6 @@ include device/samsung/jf-common/BoardConfigCommon.mk
 # inherit from the proprietary version
 -include vendor/samsung/jfltevzw/BoardConfigVendor.mk
 
-# bootloader
-TARGET_BOOTLOADER_BOARD_NAME := jfltevzw
-
 # Assert
 TARGET_OTA_ASSERT_DEVICE := jfltevzw,jflte
 

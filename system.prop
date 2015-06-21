@@ -22,3 +22,7 @@ persist.eons.enabled=false
 
 # Set default cdma subscription to RUIM in database
 ro.telephony.default_cdma_sub=0
+
+# du updater
+ro.du.updater=jfltevzw
+
